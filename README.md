@@ -7,8 +7,8 @@ Django 1.10 [poll app](https://docs.djangoproject.com/en/1.10/contents/) tutoria
 - [x] Django app, part 3
 - [x] Django app, part 4
 - [x] Django app, part 5
-- [ ] Django app, part 6
-- [ ] Django app, part 7
+- [x] Django app, part 6
+- [x] Django app, part 7
 
 ## Getting Started
 
