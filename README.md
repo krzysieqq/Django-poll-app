@@ -1,2 +1,2 @@
 # Django-documentation
-Django documentation
+Django documentation tutorial for practice 
